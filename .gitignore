@@ -104,3 +104,4 @@ $RECYCLE.BIN/
 *.lnk
 
 src/main/java/data/screenshots/
+/.idea/
