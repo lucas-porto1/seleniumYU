@@ -1,4 +1,4 @@
-package test.step_definitions;
+package step_definitions;
 
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import page.BasePage;
 import page.SeguroPage;
+
 
 public class SeguroSteps {
     public WebDriver driver;
