@@ -1,4 +1,4 @@
-package step_definitions;
+package test.step_definitions;
 
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
